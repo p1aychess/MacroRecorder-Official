@@ -49,8 +49,9 @@
 ---
 
 ## 🎨 功能截图
-<img width="806" height="643" alt="主界面" src="https://github.com/user-attachments/assets/c6246fff-0f0d-4232-ab93-60c949362700" />
-<img width="286" height="333" alt="快捷键设置" src="https://github.com/user-attachments/assets/6aef1987-6219-4d51-bd90-e691aadc50ae" />
+<img width="806" height="643" alt="image" src="https://github.com/user-attachments/assets/9d5fc8a2-3a30-4777-b070-0238a7165e3d" />
+<img width="286" height="333" alt="image" src="https://github.com/user-attachments/assets/d2aac31e-2981-4b45-bfe6-9b69afbeb4f3" />
+
 
 ---
 
