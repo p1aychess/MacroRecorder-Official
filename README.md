@@ -51,7 +51,7 @@
 ---
 
 ## 🎨 功能截图
-<img width="936" height="743" alt="image" src="https://github.com/user-attachments/assets/bc2e2a91-10ed-47c5-b01c-15e167a5e7e1" />
+<img width="936" height="743" alt="image" src="https://github.com/user-attachments/assets/a3e2d5cd-21c1-4c6b-95d4-137d1bdafe7b" />
 <img width="286" height="333" alt="image" src="https://github.com/user-attachments/assets/f1a64172-9a36-49a3-ae77-f2873f3b082f" />
 
 
